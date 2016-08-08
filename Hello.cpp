@@ -1,2 +1,2 @@
 #include <iosteam>
-using namespace stf;
+using namespace std;
