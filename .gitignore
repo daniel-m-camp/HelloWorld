@@ -1,3 +1,6 @@
+# Java
+*.class
+
 # Compiled Object files
 *.slo
 *.lo
