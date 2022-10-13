@@ -39,6 +39,9 @@ Create new branch and switch to it
 
 # git checkout \<branchname\>
 Switch branches
+  
+# git merge \<branchname\>
+Merges changes from \<branchname\> into the current branch
 
 # git branch -d \<branchname\>
 Deletes branch
