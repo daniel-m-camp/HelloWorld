@@ -13,7 +13,7 @@ Shows commit history
 # git add *
 Adds all files to the "staging area".  The "staging area" is the stuff that is going to get committed
 
-# git rm <file>
+# git rm \<file\>
 Removes file from the staging area
 
 # git commit -m "Commit message"
