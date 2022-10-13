@@ -34,7 +34,7 @@ Create new branch and switch to it
 # git checkout <branchname>
 Switch branches
 
-#git branch -d <branchname>
+# git branch -d <branchname>
 Deletes branch
 
 # git diff
