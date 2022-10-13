@@ -25,10 +25,10 @@ Adds a remote repository (if you didn't already do so with clone), and names it 
 # git remote -v
 Lists the currently configured remote repositories
 
-# git push origin <branchname>
+# git push origin \<branchname\>
 Sends your committed branch to remote server origin
 
-# git pull origin
+# git pull origin \<branchname\>
 Fetches the remote repositories branch, and merges it with your local repository
 
 # git branch
