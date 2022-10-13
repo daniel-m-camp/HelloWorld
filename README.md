@@ -34,13 +34,13 @@ Fetches the remote repositories branch, and merges it with your local repository
 # git branch
 List all branches and your current branch
 
-# git checkout -b <branchname>
+# git checkout -b \<branchname\>
 Create new branch and switch to it
 
-# git checkout <branchname>
+# git checkout \<branchname\>
 Switch branches
 
-# git branch -d <branchname>
+# git branch -d \<branchname\>
 Deletes branch
 
 # git diff
