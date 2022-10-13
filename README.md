@@ -7,8 +7,14 @@ Create a working local copy of the remote repository (make sure to use ssh inste
 # git status
 Show status of the current directory (good to do always, it gives hints on what to do next)
 
+# git log
+Shows commit history
+
 # git add *
 Adds all files to the "staging area".  The "staging area" is the stuff that is going to get committed
+
+# git rm <file>
+Removes file from the staging area
 
 # git commit -m "Commit message"
 Commit the changes made in the staging area.  This does NOT impact the remote repository yet.
